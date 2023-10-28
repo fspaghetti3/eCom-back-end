@@ -12,7 +12,7 @@ eCom-Back-End can be installed by simply copying the repository, and running an 
 
 There is a short video tutorial on eCom-Back-End and all its functions:
 
-Video Link:
+Video Link: https://youtu.be/cZdxxH5-YwI
 
 ## Credits
 
